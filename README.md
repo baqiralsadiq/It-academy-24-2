@@ -1,2 +1,4 @@
 # It-academy-24-2
-JavaScript Course for autotesting
+JavaScript Course for auto testing
+Information file for our project.
+And what we want to know about the project
