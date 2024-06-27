@@ -5,3 +5,6 @@ function print() {
 function add() {
     return 4+9;
 }
+function minus(){
+    return 15-5;
+}
